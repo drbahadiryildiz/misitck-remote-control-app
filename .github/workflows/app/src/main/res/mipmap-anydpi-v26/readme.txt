@@ -1,0 +1,1 @@
+Use Android Studio's Image Asset tool to generate launcher icons.
